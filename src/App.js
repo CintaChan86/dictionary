@@ -9,6 +9,10 @@ function App() {
       <div className="container">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
+          <br />
+          <h1>
+            Dictionary
+          </h1>
         </header>
         <main>
           <Dictionary />
