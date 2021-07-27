@@ -2,3 +2,10 @@
   padding-top: 30px;
   padding-bottom: 30px;
 }
+
+.Dictionary section {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px rgba(210, 210, 210, 0.7);
+}

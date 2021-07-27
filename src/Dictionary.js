@@ -25,6 +25,7 @@ export default function Dictionary () {
     }
     return (
         <div className="Dictionary">
+           
             <form onSubmit={search}>
                 <div className="row">
                     <div className="col-9">
